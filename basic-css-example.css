@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Dots:wght@400..700&display=swap');
+
+.background {
+    background-image: url("https://images.pexels.com/photos/28594604/pexels-photo-28594604.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 610px;
+
+}
+.header {
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px;
+    font-size: 15px;
+    color: #fff;
+}
+.title {
+    text-align: center; 
+    font-family: "Edu AU VIC WA NT Dots", cursive;
+     font-optical-sizing: auto;
+     font-weight: <weight>;
+     font-style: normal;
+      
+}
+.nav {
+    background-color: rgba(0,0,0,0.7);
+    padding: 8px;
+    text-align: center;
+    word-spacing: 30px;
+}
+.conect{
+    color: #fff;
+    text-decoration: none;
+}
+.section {
+    background-color: rgba(255, 255, 255, .8);
+
+    height: 60%;
+    margin-top: 10px;  
+    margin-bottom: 10px;
+    margin-left: 10%;
+    margin-right: 10%;                                                                     
+}
+.section img {
+    border: 1px solid #000;
+    border-radius: 40px;
+    width: 15%;
+    height: 40%;
+    margin-top: 10px; 
+    margin-left: 42%;
+    box-shadow: 3px 3px 3px 3px red;
+}
+.section h1{
+    text-align: center;
+    font-family: ;
+}
+.section p {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.footer{
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px;
+}
+.footer p{
+    text-align: center;
+    color: #fff;
+}
